@@ -1,11 +1,19 @@
 {
   "name": "ag_dubs",
   "description": "works at npm",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "license": "MIT",
   "repository": "ashleygwilliams/ag_dubs-module",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["666", "vegan", "anarchist", "philosopher", "neuroscientist", "teacher", "NYC"]
+  "keywords": [
+    "666",
+    "vegan",
+    "anarchist",
+    "philosopher",
+    "neuroscientist",
+    "teacher",
+    "NYC"
+  ]
 }
