@@ -5,7 +5,8 @@
   "license": "MIT",
   "repository": "ashleygwilliams/ag_dubs-module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "tap test/test-*.js"
   },
   "keywords": [
     "666",
@@ -15,5 +16,8 @@
     "neuroscientist",
     "teacher",
     "NYC"
-  ]
+  ],
+  "dependencies": {
+    "tap": "^2.1.1"
+  }
 }
