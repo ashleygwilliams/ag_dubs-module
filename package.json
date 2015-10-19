@@ -1,0 +1,11 @@
+{
+  "name": "ag_dubs",
+  "description": "works at npm",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/ashleygwilliams/ag_dubs-module",
+  "readme": "https://github.com/ashleygwilliams/ag_dubs-module/blob/master/README.md",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
